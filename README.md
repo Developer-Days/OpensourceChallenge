@@ -30,36 +30,52 @@ You will have to use some basic git commands for basic contributions in any open
 
 First you need to clone whole repo by 
 
-```git clone``` 
+```md
+git clone
+``` 
 
 Then you have to make desired changes in the repository,
 after making the changes you will have to add upstream to main repository 
 
-```git remote add upstream```
+```md
+git remote add upstream
+```
 
 Now you have to make your own new branch
 
-```git checkout -b branch-name```
+```md
+git checkout -b branch-name
+```
 
 If you want to see the changes you made you can check with 
 
-```git status```
+```md
+git status
+```
 
 Now you will have to add the commits
 
-```git add .```
+```md
+git add .
+```
 
 Now check the status if the changes are staged 
 
-```git status```
+```md
+git status
+```
 
 Now you will have to commit all the changes with message
 
-```git commit -m "message"``` 
+```md
+git commit -m "message"
+``` 
 
 Atlast you will have to push it with command
 
-```git push origin lang-code```
+```md
+git push origin branch-name
+```
 
 
 
