@@ -33,7 +33,7 @@ First you need to clone whole repo by
 ``git clone`` 
 
 Then you have to make desired changes in the repository,
-after making the changes you will havve to add upstream to main repository by cloning
+after making the changes you will have to add upstream to main repository 
 
 `git remote add upstream`
 
@@ -65,6 +65,8 @@ Atlast you will have to push it with command
 
 
 ## Submission Guide
+
+Link to Submit your [PR Here](http://bonus.devdays.xyz/)
 
 
 
