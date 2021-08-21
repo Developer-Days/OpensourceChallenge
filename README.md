@@ -6,23 +6,33 @@
   - [Hard]()
 - [How to Contribute](#how-to-contribute)
 - [Submission guide](#submission-guide)
-## Description
+## Description 
 In order to gain some extra points in developer days,we have added some opensource projects in which you all can contribute and gain points accordingly .We have added three levels and each levels will have respective pointers.
 
 ## Projects to contribute
 ### Easy
- - [Desgen]()
- - [MaskDetctionApp]()
- - [Seashore]()
+ - [foss-events](https://github.com/DSC-JSS-NOIDA/foss-events)
+ - [Manthan](https://github.com/Manthan933/Manthan )
+ - [Seashore-Grasp](https://github.com/sonaljain067/Seashore-Grasp)
+ - [makesmatheasy-documentation](https://github.com/makesmatheasy/makesmatheasy-documentation)
+ - [pixelvibe](https://github.com/ankitapuri/pixelvibe)
+ - [Recess](https://github.com/avinashkranjan/Recess)
+ - [Kurakoo](https://github.com/purnima143/Kurakoo)
+ 
  ### Moderate
- - [Meshery]()
- - [React-native]()
- - [Seashore]()
+ - [React-Messenger-App](https://github.com/DhairyaBahl/React-Messenger-App)
+ - [Athavani](https://github.com/Tejas1510/Athavani)
+ - [makesmatheasy](https://github.com/makesmatheasy/makesmatheasy)
+ - [WordNook](https://github.com/ALPHAVIO/WordNook)
+ - [Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd)
+ - [WordNook](https://github.com/ALPHAVIO/WordNook)
 
  ### Hard
- - [Meshery]()
- - [MaskDetction]()
- - [Seashore]()
+ - [ReactNative](https://github.com/facebook/react-native/labels/Good%20first%20issue)
+ - [Meshery](https://github.com/meshery/meshery/labels/good%20first%20issue)
+ - [alacritty](https://github.com/alacritty/alacritty)
+ - [cpedito](https://github.com/cpeditor/cpeditor/)
+ - [DiscordBot](https://github.com/python-discord/bot)
 
 
 ## How To Contribute
@@ -81,12 +91,12 @@ git push origin branch-name
 
 
 ## Submission Guide
-For submission we have given you a google form you will have to add the your info and the pr link which has been merged!! 
+For submission we have given you a google form you will have to add the your info and the merged PR link. 
 we will examine and give you point respectively.
 If you think you have done everything correct but your points was not updated so you just have to raise a ticket your query will be solved Asap!
 
 
-Link to Submit your [PR Here](http://bonus.devdays.xyz/)
+Link to Submit your [Merged PR](https://docs.google.com/forms/d/e/1FAIpQLScJqo7HMOwbHZp8LLvixKprvfC9ar9plSyv32GgEG8Ysuae2g/viewform)
 
 
 
