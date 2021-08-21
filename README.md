@@ -81,6 +81,10 @@ git push origin branch-name
 
 
 ## Submission Guide
+For submission we have given you a google form you will have to add the your info and the pr link which has been merged!! 
+we will examine and give you point respectively.
+If you think you have done everything correct but your points was not updated so you just have to raise a ticket your query will be solved Asap!
+
 
 Link to Submit your [PR Here](http://bonus.devdays.xyz/)
 
