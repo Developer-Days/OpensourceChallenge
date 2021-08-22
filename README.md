@@ -92,7 +92,7 @@ git push origin branch-name
 
 
 ## Submission Guide 📤
-For submission, we have provided you with a Google form, into which you must enter your information as well as the merged PR link. We will look into it and give you a point for your efforts. If you believe you have done everything correctly but your points have not been changed, all you have to do is submit a ticket and your problem will be resolved. Asap!
+For submission, we have provided you with a Google form, into which you must enter your information as well as the merged PR link. Your submission will be evaluated and the points are awarded accordingly. If you believe you have done everything correctly but your points have not been changed, all you have to do is submit a ticket and your problem will be resolved. Asap!
 
 Link to submit your [Merged PR](https://docs.google.com/forms/d/e/1FAIpQLScJqo7HMOwbHZp8LLvixKprvfC9ar9plSyv32GgEG8Ysuae2g/viewform)
 
