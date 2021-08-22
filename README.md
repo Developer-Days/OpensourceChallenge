@@ -90,10 +90,12 @@ git push origin branch-name
 ```
 
 ## How you get points 
-We have divided projects to contribute in three levels easy,medium and hard .Each levels have their respective points. If your PR has been merged in easy projects, you will be getting 1 point. If your PR has been merged in moderate projects you will be getting 2 points. If your PR has been merged in hard projects you will be getting 3 points.
+Submit the Merged PR link into the provided google form of open-source challenge. After evaluation of your submission, points will be awarded according to the difficulty level of the commit. Easy Level commits, Moderate Level commits and Hard Level commits will contain 1 point, 2 points and 3 points respectively.
 
-You can only earn max to max 4 bonus points from this opensource challenge.
-Be assured that you have filled the form after getting your PR merged, We will be only allotting points to those who have filled the form with the proper info and PR link.
+We will consider only one merged PR from a particular repository,we will not be allotting any points for other PR's in the same repository,even if it is merged.
+
+
+You can only earn a maximum of 4 bonus points from this open-source challenge. Be assured that you have filled the form after getting your PR merged, We will be only allotting points to those who have filled the form with the proper information and merged PR link
 
 
 ## Submission Guide 
