@@ -6,11 +6,11 @@
   - [Hard]()
 - [How to Contribute](#how-to-contribute)
 - [Submission guide](#submission-guide)
-- [How you get points](#submission-guide)
-## Description 
+- [How you get points](#how-you-get-points)
+## Description 📑
 In order to gain some extra points in developer days,we have added some opensource projects in which you all can contribute and gain points accordingly .We have added three levels and each levels will have respective pointers.
 
-## Projects to contribute
+## Projects to contribute 💻
 ### Easy
  - [foss-events](https://github.com/DSC-JSS-NOIDA/foss-events)
  - [Manthan](https://github.com/Manthan933/Manthan )
@@ -36,7 +36,7 @@ In order to gain some extra points in developer days,we have added some opensour
  - [DiscordBot](https://github.com/python-discord/bot)
 
 
-## How To Contribute
+## How To Contribute ❓
 You will have to use some basic git commands for basic contributions in any opensource projects !
 
 First you need to clone whole repo by 
@@ -91,7 +91,7 @@ git push origin branch-name
 
 
 
-## Submission Guide
+## Submission Guide 📤
 For submission we have given you a google form you will have to add the your info and the merged PR link. 
 we will examine and give you point respectively.
 If you think you have done everything correct but your points was not updated so you just have to raise a ticket your query will be solved Asap!
@@ -99,7 +99,7 @@ If you think you have done everything correct but your points was not updated so
 
 Link to Submit your [Merged PR](https://docs.google.com/forms/d/e/1FAIpQLScJqo7HMOwbHZp8LLvixKprvfC9ar9plSyv32GgEG8Ysuae2g/viewform)
 
-## How you get points?
+## How you get points ❓
 We have divided projects to contribute in three levels easy,medium and hard .Each levels have their respective points. If your PR has been merged in easy projects, you will be getting 1 point. If your PR has been merged in moderate projects you will be getting 2 points. If your PR has been merged in hard projects you will be getting 3 points.
 
 You can only earn max to max 4 bonus points from this opensource challenge.
