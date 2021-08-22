@@ -92,12 +92,9 @@ git push origin branch-name
 
 
 ## Submission Guide 📤
-For submission we have given you a google form you will have to add the your info and the merged PR link. 
-we will examine and give you point respectively.
-If you think you have done everything correct but your points was not updated so you just have to raise a ticket your query will be solved Asap!
+For submission, we have provided you with a Google form, into which you must enter your information as well as the merged PR link. We will look into it and give you a point for your efforts. If you believe you have done everything correctly but your points have not been changed, all you have to do is submit a ticket and your problem will be resolved. Asap!
 
-
-Link to Submit your [Merged PR](https://docs.google.com/forms/d/e/1FAIpQLScJqo7HMOwbHZp8LLvixKprvfC9ar9plSyv32GgEG8Ysuae2g/viewform)
+Link to submit your [Merged PR](https://docs.google.com/forms/d/e/1FAIpQLScJqo7HMOwbHZp8LLvixKprvfC9ar9plSyv32GgEG8Ysuae2g/viewform)
 
 ## How you get points ❓
 We have divided projects to contribute in three levels easy,medium and hard .Each levels have their respective points. If your PR has been merged in easy projects, you will be getting 1 point. If your PR has been merged in moderate projects you will be getting 2 points. If your PR has been merged in hard projects you will be getting 3 points.
