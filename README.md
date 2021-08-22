@@ -26,7 +26,7 @@ In order to gain some extra points in developer days,we have added some opensour
  - [makesmatheasy](https://github.com/makesmatheasy/makesmatheasy)
  - [WordNook](https://github.com/ALPHAVIO/WordNook)
  - [Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd)
- - [WordNook](https://github.com/ALPHAVIO/WordNook)
+ <!-- - [WordNook](https://github.com/ALPHAVIO/WordNook) -->
 
  ### Hard
  - [ReactNative](https://github.com/facebook/react-native/labels/Good%20first%20issue)
