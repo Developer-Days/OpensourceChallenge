@@ -6,6 +6,7 @@
   - [Hard]()
 - [How to Contribute](#how-to-contribute)
 - [Submission guide](#submission-guide)
+- [How you get points](#submission-guide)
 ## Description 
 In order to gain some extra points in developer days,we have added some opensource projects in which you all can contribute and gain points accordingly .We have added three levels and each levels will have respective pointers.
 
@@ -19,7 +20,7 @@ In order to gain some extra points in developer days,we have added some opensour
  - [Recess](https://github.com/avinashkranjan/Recess)
  - [Kurakoo](https://github.com/purnima143/Kurakoo)
  
- ### Moderate
+ ### Moderate 
  - [React-Messenger-App](https://github.com/DhairyaBahl/React-Messenger-App)
  - [Athavani](https://github.com/Tejas1510/Athavani)
  - [makesmatheasy](https://github.com/makesmatheasy/makesmatheasy)
@@ -98,6 +99,11 @@ If you think you have done everything correct but your points was not updated so
 
 Link to Submit your [Merged PR](https://docs.google.com/forms/d/e/1FAIpQLScJqo7HMOwbHZp8LLvixKprvfC9ar9plSyv32GgEG8Ysuae2g/viewform)
 
+## How you get points?
+We have divided projects to contribute in three levels easy,medium and hard .Each levels have their respective points. If your PR has been merged in easy projects, you will be getting 1 point. If your PR has been merged in moderate projects you will be getting 2 points. If your PR has been merged in hard projects you will be getting 3 points.
+
+You can only earn max to max 4 bonus points from this opensource challenge.
+Be assured that you have filled the form after getting your PR merged, We will be only allotting points to those who have filled the form with the proper info and PR link.
 
 
 
