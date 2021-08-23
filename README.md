@@ -7,7 +7,6 @@
 - [How to Contribute](#how-to-contribute)
 - [How you get points](#how-you-get-points)
 - [Submission guide](#submission-guide)
-
 ## Description 
 In order to gain some extra points in developer days,we have added some opensource projects in which you all can contribute and gain points accordingly .We have added three levels and each levels will have respective pointers.
 
@@ -38,56 +37,42 @@ In order to gain some extra points in developer days,we have added some opensour
 
 
 ## How To Contribute 
-You will have to use some basic git commands for basic contributions in any opensource projects !
+1. Make sure to fork the repository, so it's available to your GitHub account, for further contributions as well as it state your contributions in it.
 
-First you need to clone whole repo by 
 
-```md
-git clone
-``` 
+2. Clone the repository from your account to local PC, so its available to you locally. Also, you can make changes in it for testing/contributions/enhancements.
 
-Then you have to make desired changes in the repository,
-after making the changes you will have to add upstream to main repository 
-
-```md
-git remote add upstream
+```
+git clone https://github.com/<your-username>/<repo-name>
 ```
 
-Now you have to make your own new branch
+3. Now, set the `upstream` so it make a "path of contribution" from your account's repo. (repository) to original repository.
 
-```md
-git checkout -b branch-name
+
+```
+git remote add upstream https://github.com/<org-name>/<repo-name>.git
 ```
 
-If you want to see the changes you made you can check with 
+4. After done with the changes in code, get ready to contribute, Excited ? :star_struck: 
 
-```md
-git status
+5. Make your own branch by using following command:
+```
+git checkout -b <branch-name>
 ```
 
-Now you will have to add the commits
-
-```md
+6. Now, you've to add the changes in that branch, you created just above.
+```
 git add .
 ```
-
-Now check the status if the changes are staged 
-
-```md
-git status
+7. Lets commit the changes, & earn "green square of the day".
 ```
-
-Now you will have to commit all the changes with message
-
-```md
-git commit -m "message"
-``` 
-
-Atlast you will have to push it with command
-
-```md
-git push origin branch-name
+git commit -m "<message>"
 ```
+8. Now, just push the changes from your repo. to original repository.
+```
+git push origin <branch-name>
+```
+9. Once you've committed and pushed all of your changes to GitHub, go to the page for your fork on GitHub, select your development branch, and click the pull request button. If you need to make any adjustments to your pull request, just push the updates to GitHub. Your pull request will automatically track the changes in your development branch and update it.
 
 ## How you get points 
 Submit the Merged PR link into the provided google form of open-source challenge. After evaluation of your submission, points will be awarded according to the difficulty level of the commit. Easy Level commits, Moderate Level commits and Hard Level commits will contain 1 point, 2 points and 3 points respectively.
