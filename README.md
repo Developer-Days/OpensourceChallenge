@@ -33,7 +33,7 @@ In order to gain some extra points in developer days,we have added some opensour
  - [ReactNative](https://github.com/facebook/react-native/labels/Good%20first%20issue)
  - [Meshery](https://github.com/meshery/meshery/labels/good%20first%20issue)
  - [alacritty](https://github.com/alacritty/alacritty)
- - [cpedito](https://github.com/cpeditor/cpeditor/)
+ - [cpeditor](https://github.com/cpeditor/cpeditor/)
  - [DiscordBot](https://github.com/python-discord/bot)
 
 
