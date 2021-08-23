@@ -106,4 +106,3 @@ If you think you have done everything correct but your points was not updated so
 
 
 Link to Submit your [Merged PR](https://docs.google.com/forms/d/e/1FAIpQLScJqo7HMOwbHZp8LLvixKprvfC9ar9plSyv32GgEG8Ysuae2g/viewform)
-
