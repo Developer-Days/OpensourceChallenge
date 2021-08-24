@@ -34,7 +34,7 @@ In order to gain some extra points in developer days,we have added some opensour
  - [alacritty](https://github.com/alacritty/alacritty)
  - [cpedito](https://github.com/cpeditor/cpeditor/)
  - [DiscordBot](https://github.com/python-discord/bot)
-
+ - [erxes](https://github.com/erxes/erxes)
 
 ## How To Contribute 
 1. Make sure to fork the repository, so it's available to your GitHub account, for further contributions as well as it state your contributions in it.
