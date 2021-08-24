@@ -8,7 +8,7 @@
 - [How you get points](#how-you-get-points)
 - [Submission guide](#submission-guide)
 ## Description 
-In order to gain some extra points in developer days,we have added some opensource projects in which you all can contribute and gain points accordingly .We have added three levels and each levels will have respective pointers.
+To gain some extra points in *Developer Days*, we have added some opensource projects in which you all can contribute, gain experience in open source and climb up the leaderboard. Keeping in mind the diverse experience level of the participants (Like people who are a complete beginner or with any level of experience) We have divided the projects into three categories i.e Easy, Moderate and Difficult.
 
 ## Projects to contribute 
 ### Easy
@@ -28,7 +28,7 @@ In order to gain some extra points in developer days,we have added some opensour
  - [Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd)
  <!-- - [WordNook](https://github.com/ALPHAVIO/WordNook) -->
 
- ### Hard
+ ### Difficult
  - [ReactNative](https://github.com/facebook/react-native/labels/Good%20first%20issue)
  - [Meshery](https://github.com/meshery/meshery/labels/good%20first%20issue)
  - [alacritty](https://github.com/alacritty/alacritty)
@@ -75,27 +75,22 @@ git push origin <branch-name>
 9. Once you've committed and pushed all of your changes to GitHub, go to the page for your fork on GitHub, select your development branch, and click the pull request button. If you need to make any adjustments to your pull request, just push the updates to GitHub. Your pull request will automatically track the changes in your development branch and update it.
 
 ## How you get points 
-Submit the Merged PR link into the provided google form of open-source challenge. After evaluation of your submission, points will be awarded according to the difficulty level of the commit. Easy Level commits, Moderate Level commits and Hard Level commits will contain 1 point, 2 points and 3 points respectively.
+Submit the Merged PR link into the provided google form of open-source challenge. After evaluation of your submission, points will be awarded according to the difficulty level of the commit:
 
-We will consider only one merged PR from a particular repository,we will not be allotting any points for other PR's in the same repository,even if it is merged.
+Easy Level Commit - 1 Point
+Moderate Level Commit - 2 Points
+Difficult Level Commit - 3 Points
+
+We will consider only one merged PR from a particular repository, and not be allotting any points for other PRs in the same repository even if it is merged.
 
 
-You can only earn a maximum of 4 bonus points from this open-source challenge. Be assured that you have filled the form after getting your PR merged, We will be only allotting points to those who have filled the form with the proper information and merged PR link
+You can only earn a maximum of 4 bonus points from this open-source challenge. Be assured that you have filled the form after getting your PR merged, we will be only allotting points to those who have filled the form with the proper information and merged PR link.
 
 
 ## Submission Guide 
-For submission we have given you a google form you will have to add the your info and the merged PR link. 
-we will examine and give you point respectively.
-If you think you have done everything correct but your points was not updated so you just have to raise a ticket your query will be solved Asap!
+For submission, we have given you a google form. You will have to add the required information and the merged PR link. 
+We will examine and give you point respectively.
+If you find any error in point updation, contact the support team by raising a ticket in the discord server.
 
 
 Link to Submit your [Merged PR](https://docs.google.com/forms/d/e/1FAIpQLScJqo7HMOwbHZp8LLvixKprvfC9ar9plSyv32GgEG8Ysuae2g/viewform)
-
-
-
-
-
-
-
-
- 
