@@ -1,9 +1,9 @@
 ## Table of Contents 📕
 - [Description](#description)
 - [Projects to contribute](#projects-to-contribute)
-  - [Easy]()
-  - [Moderate]()
-  - [Hard]()
+  - [Easy](#Easy)
+  - [Moderate](#Moderate)
+  - [Hard](#Hard)
 - [How to Contribute](#how-to-contribute)
 - [How you get points](#how-you-get-points)
 - [Submission guide](#submission-guide)
