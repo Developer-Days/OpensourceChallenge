@@ -1,7 +1,7 @@
 ## Table of Contents 📕
 - [Description](#description)
 - [Projects to contribute](#projects-to-contribute)
-  - [Easy]()
+  - [Easy](#easy)
   - [Moderate]()
   - [Hard]()
 - [How to Contribute](#how-to-contribute)
@@ -12,30 +12,35 @@ To gain some extra points in *Developer Days*, we have added some opensource pro
 
 ## Projects to contribute 
 ### Easy
- - [foss-events](https://github.com/DSC-JSS-NOIDA/foss-events)
- - [Manthan](https://github.com/Manthan933/Manthan )
- - [Seashore-Grasp](https://github.com/sonaljain067/Seashore-Grasp)
- - [makesmatheasy-documentation](https://github.com/makesmatheasy/makesmatheasy-documentation)
- - [pixelvibe](https://github.com/ankitapuri/pixelvibe)
- - [Recess](https://github.com/avinashkranjan/Recess)
- - [Kurakoo](https://github.com/purnima143/Kurakoo)
+ - [foss-events](https://github.com/DSC-JSS-NOIDA/foss-events)   (Web)
+ - [Manthan](https://github.com/Manthan933/Manthan ) (Web)
+ - [Seashore-Grasp](https://github.com/sonaljain067/Seashore-Grasp) (Web & UI)
+ - [makesmatheasy-documentation](https://github.com/makesmatheasy/makesmatheasy-documentation) (Web)
+ - [pixelvibe](https://github.com/ankitapuri/pixelvibe) (Web)
+ - [Recess](https://github.com/avinashkranjan/Recess) (Web)
+ - [Kurakoo](https://github.com/purnima143/Kurakoo) (Web)
+ - [BookHub](https://github.com/arwazkhan189/BookHub) (App & UI)
+ - [Avengers-Android-App)](https://github.com/arwazkhan189/Avengers-Android-App) (App & UI)
  
  ### Moderate 
- - [React-Messenger-App](https://github.com/DhairyaBahl/React-Messenger-App)
- - [Athavani](https://github.com/Tejas1510/Athavani)
- - [makesmatheasy](https://github.com/makesmatheasy/makesmatheasy)
- - [WordNook](https://github.com/ALPHAVIO/WordNook)
- - [Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd)
- <!-- - [WordNook](https://github.com/ALPHAVIO/WordNook) -->
+ - [React-Messenger-App](https://github.com/DhairyaBahl/React-Messenger-App) (Web)
+ - [Athavani](https://github.com/Tejas1510/Athavani) (Web)
+ - [makesmatheasy](https://github.com/makesmatheasy/makesmatheasy)(Web)
+ - [WordNook](https://github.com/ALPHAVIO/WordNook) (Web & UI)
+ - [Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd)(Web)
+ - [android](https://github.com/owncloud/android) (App)
+ - [uhabits](https://github.com/iSoron/uhabits) (App)
+ - [camera-samples](https://github.com/android/camera-samples) (App)
 
  ### Difficult
- - [ReactNative](https://github.com/facebook/react-native/labels/Good%20first%20issue)
- - [Meshery](https://github.com/meshery/meshery/labels/good%20first%20issue)
- - [alacritty](https://github.com/alacritty/alacritty)
- - [cpedito](https://github.com/cpeditor/cpeditor/)
- - [DiscordBot](https://github.com/python-discord/bot)
- - [erxes](https://github.com/erxes/erxes)
-
+ - [ReactNative](https://github.com/facebook/react-native/labels/Good%20first%20issue) (Web)
+ - [Meshery](https://github.com/meshery/meshery/labels/good%20first%20issue) (Web & UI)
+ - [alacritty](https://github.com/alacritty/alacritty) (Web)
+ - [cpedito](https://github.com/cpeditor/cpeditor/) (Web)
+ - [erxes](https://github.com/erxes/erxes) (Web)
+ - [CovidCertificate-App-Android](https://github.com/admin-ch/CovidCertificate-App-Android) (App)
+ - [apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) (App)
+ - [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) (App)
 ## How To Contribute 
 1. Make sure to fork the repository, so it's available to your GitHub account, for further contributions as well as it state your contributions in it.
 
